@@ -100,9 +100,9 @@ service-worker: true
 friends: [
     {
         title: "cfd-china",
-        href: "http://www.cfd-china.com/user/ghoulyy"
+        href: "http://www.cfd-china.com/"
     },{
         title: "cfd-online",
-        href: "https://www.cfd-online.com/Forums/members/saatt.html"
+        href: "https://www.cfd-online.com/Forums"
     }
 ]
